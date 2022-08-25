@@ -1,5 +1,3 @@
-## Hi there, I'm Alexey - aka rvinnie 👋
-
 🌱 I'm interested in backend programming and algorithms  
 ⚡ I'm a student of School 21 (École 42)  
 🎯 I’m currently learning C# / .NET  
