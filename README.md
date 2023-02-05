@@ -1,7 +1,7 @@
 🌱 I'm interested in backend programming and algorithms  
 ⚡ I'm a student of School 21 (École 42)  
-🎯 I’m currently learning C# / .NET  
-🥅 2022 Goals: Learn more about backend
+🎯 I’m currently learning Golang  
+🥅 2023 Goals: Learn more about backend
 
 ### Connect with me:
 [![Telegram contact][telegram_badge]][telegram_link]
