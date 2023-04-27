@@ -1,4 +1,3 @@
-### About me
 ⚡ I'm interested in backend programming and algorithms  
 🎓 I'm a student of École 42  
 🎯 I’m currently learning Golang / PostgreSQL / DevOps  
