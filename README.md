@@ -14,8 +14,7 @@
 [![42 profile][42_badge]][42_link]
 
 <details>
-<summary>Github & LeetCode stats</summary>
-<img align="left" alt="rvinnie's Github/LeetCode Stats" src="https://github-readme-stats.vercel.app/api?username=rvinnie&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
+<summary>LeetCode stats</summary>
 <img align="left" alt="rvinnie's LeetCode Stats" src="https://leetcode-stats-six.vercel.app/api?username=rvinnie&theme=dark" />
 </details>  
   
