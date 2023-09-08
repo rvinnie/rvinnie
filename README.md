@@ -16,7 +16,6 @@
 ### Connect with me
 [![Telegram contact][telegram_badge]][telegram_link]
 [![Leetcode profile][leetcode_badge]][leetcode_link]
-[![CV][cv_badge]][cv_link]
 [![42 profile][42_badge]][42_link]
 
   
@@ -25,9 +24,6 @@
 
 [leetcode_badge]: https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black "Leetcode profile"
 [leetcode_link]: https://leetcode.com/rvinnie/
-
-[cv_link]: fedoseev_alexey_cv.pdf
-[cv_badge]: https://img.shields.io/badge/CV-2a6ac9?style=for-the-badge&logoColor=white
 
 [42_link]: https://profile.intra.42.fr/users/rvinnie
 [42_badge]: https://img.shields.io/badge/Ecole42-000000?style=for-the-badge&logo=42&logoColor=white "Ecole 42 profile"
