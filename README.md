@@ -1,29 +1,41 @@
-### About me
-⚡ I'm interested in backend programming and algorithms  
-🎓 I'm a student of École 42  
-🎯 I’m currently learning Golang / PostgreSQL / DevOps  
+## About me
+- Backend Go developer with experience building high-load cloud-native systems and managing the full development cycle — from service design to infrastructure setup
 
-### Languages and Tools
-![Golang](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=C-sharp&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
-![k8s](https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white)
+- Creator and maintainer of the most popular [Go SDK for YooKassa](https://github.com/rvinnie/yookassa-sdk-go)
 
-### Connect with me
-[![Telegram contact][telegram_badge]][telegram_link]
-[![Leetcode profile][leetcode_badge]][leetcode_link]
-[![42 profile][42_badge]][42_link]
+- Alumnus of [École 42](https://42.fr/) software engineering program
 
-  
-[telegram_link]: https://t.me/fedoseev_alexey
-[telegram_badge]: https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white "Telegram contact"
+- Building experimental projects with a bare-metal Raspberry Pi cluster, video streaming, and [on-device AI](https://www.coral.ai/)
 
-[leetcode_badge]: https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black "Leetcode profile"
-[leetcode_link]: https://leetcode.com/rvinnie/
+## Skills
+### Backend
+[![GO](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white)](#)
+[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)](#)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)](#)
+[![Kafka](https://img.shields.io/badge/Kafka-231F20?logo=apachekafka)](#)
+[![Redis](https://img.shields.io/badge/Redis-DC382D?logo=Redis&logoColor=white)](#)
+[![MinIO](https://img.shields.io/badge/MinIO-C72E49?logo=minio&logoColor=fff)](#)
 
-[42_link]: https://profile.intra.42.fr/users/rvinnie
-[42_badge]: https://img.shields.io/badge/Ecole42-000000?style=for-the-badge&logo=42&logoColor=white "Ecole 42 profile"
+### Frontend
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)](#)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=white)](#)
+[![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)](#)
+[![Redux](https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=fff)](#)
+[![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)](#)
+[![CSS](https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff)](#)
+
+### DevOps
+[![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)](#)
+[![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=fff)](#)
+[![VictoriaMetrics](https://img.shields.io/badge/VictoriaMetrics-621773?logo=victoriametrics&logoColor=black)](#)
+[![ElasticSearch](https://img.shields.io/badge/ElasticSearch-005571?logo=elasticsearch&logoColor=black)](#)
+[![Harbor](https://img.shields.io/badge/Harbor-60B932?logo=harbor&logoColor=fff)](#)
+[![Argo](https://img.shields.io/badge/Argo-EF7B4D?logo=argo&logoColor=fff)](#)
+
+
+### Hardware & AI
+
+[![RaspberryPi](https://img.shields.io/badge/RaspberryPi-A22846?logo=raspberrypi&logoColor=fff)](#)
+[![FFmpeg](https://img.shields.io/badge/FFmpeg-007808?logo=ffmpeg&logoColor=white)](#)
+[![Coral AI](https://img.shields.io/badge/Coral_AI-%23E34F26.svg?logo=google&logoColor=white)](#)
+
